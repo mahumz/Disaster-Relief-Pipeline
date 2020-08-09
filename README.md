@@ -30,3 +30,14 @@ Machine Learning model to categorize messages accurately.
 https://github.com/mahumz/Disaster-Relief-Pipeline/blob/master/DisasterResponsePipelineWebpage.png
 
 #### Train DataSet Visual:
+https://github.com/mahumz/Disaster-Relief-Pipeline/blob/master/DisasterResponsePipelineTrainingDataset.png
+
+#### 36 Categories:
+https://github.com/mahumz/Disaster-Relief-Pipeline/blob/master/DisasterResponsePipeline36.png
+
+#### Search Results:
+https://github.com/mahumz/Disaster-Relief-Pipeline/blob/master/DisasterResponsePipelineSearchResultPart1.png
+
+https://github.com/mahumz/Disaster-Relief-Pipeline/blob/master/DisasterResponsePipelineSearchResultPart2.png
+
+https://github.com/mahumz/Disaster-Relief-Pipeline/blob/master/DisasterResponsePipelineSearchResultPart3.png
