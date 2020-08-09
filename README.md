@@ -27,3 +27,6 @@ Machine Learning model to categorize messages accurately.
 ### WebApp Results:
 
 #### Home Page:
+https://github.com/mahumz/Disaster-Relief-Pipeline/blob/master/DisasterResponsePipelineWebpage.png
+
+#### Train DataSet Visual:
